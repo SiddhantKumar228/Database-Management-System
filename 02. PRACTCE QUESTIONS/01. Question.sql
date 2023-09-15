@@ -164,4 +164,82 @@ FROM TITLE;
 -- 24. WRITE AN SQL QUERY TO PRINT DETAILS OF THE WORKERS WHO ARE ALSO MANAGERS.
 
 
--- 25. 
+-- 25. Write an SQL query to fetch number (more than 1) of same titles in the ORG of different types.
+
+
+-- 26. Write an SQL query to show only odd rows from a table.
+
+
+-- 27. Write an SQL query to show only even rows from a table. 
+
+
+-- 28. Write an SQL query to clone a new table from another table.
+
+
+-- 29. Write an SQL query to fetch intersecting records of two tables.
+
+
+-- 30. Write an SQL query to show records from one table that another table does not have.
+
+
+-- 30. Write an SQL query to show records from one table that another table does not have.
+
+
+-- 31. Write an SQL query to show the current date and time.
+
+
+-- 32. Write an SQL query to show the top n (say 5) records of a table order by descending salary.
+
+
+-- 33. Write an SQL query to determine the nth (say n=5) highest salary from a table.
+
+
+-- 34. Write an SQL query to determine the 5th highest salary without using LIMIT keyword.
+
+
+-- 35. Write an SQL query to fetch the list of employees with the same salary.
+
+
+-- 36. Write an SQL query to show the second highest salary from a table using sub-query.
+
+
+-- 37. Write an SQL query to show one row twice in results from a table.
+
+
+-- 38. Write an SQL query to list worker_id who does not get bonus.
+
+
+-- 39. Write an SQL query to fetch the first 50% records from a table.
+
+
+-- 40. Write an SQL query to fetch the departments that have less than 4 people in it.
+
+
+-- 41. Write an SQL query to show all departments along with the number of people in there.
+
+
+-- 42. Write an SQL query to show the last record from a table.
+
+
+-- 43. Write an SQL query to fetch the first row of a table.
+
+
+-- 44. Write an SQL query to fetch the last five records from a table.
+
+
+-- 45. Write an SQL query to print the name of employees having the highest salary in each department.
+
+
+-- 46. Write an SQL query to fetch three max salaries from a table using co-related subquery
+
+
+-- 47. Write an SQL query to fetch three min salaries from a table using co-related subquery
+
+
+-- 48. Write an SQL query to fetch nth max salaries from a table.
+
+
+-- 49. Write an SQL query to fetch departments along with the total salaries paid for each of them.
+
+
+-- 50. Write an SQL query to fetch the names of workers who earn the highest salary.
